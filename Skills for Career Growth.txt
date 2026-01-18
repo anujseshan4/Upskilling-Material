@@ -1,0 +1,83 @@
+Data Engineering
+
+Core Languages & Databases
+SQL & Python: Essential for scripting, data manipulation, and interacting with various tools.
+NoSQL Databases: MongoDB, DynamoDB for unstructured data needs.
+Relational Databases: PostgreSQL, MySQL for traditional data storage. 
+Cloud & Warehousing
+Cloud Platforms: AWS (S3, EMR, Kinesis), Google Cloud (BigQuery, Dataflow), Azure.
+Data Warehouses: Snowflake, Google BigQuery, Amazon Redshift, Databricks. 
+Data Processing & Streaming
+Big Data: Apache Spark (batch processing), Hadoop.
+Streaming: Apache Kafka, Apache Flink, Amazon Kinesis, Apache NiFi. 
+Orchestration & Transformation
+Orchestration: Apache Airflow, Dagster for scheduling and monitoring.
+ETL/ELT: dbt (Data Build Tool), Fivetran, Airbyte, Talend. 
+DevOps & Infrastructure
+Containerization: Docker, Kubernetes.
+Infrastructure as Code (IaC): Terraform.
+Version Control: Git (GitHub) for code management.
+Azure
+
+Data Science
+
+Programming Languages & Environments
+Python: The most popular language with extensive libraries.
+R: Strong for statistical computing and graphics.
+Jupyter Notebook/RStudio: Interactive environments for coding, analysis, and sharing. 
+Data Manipulation & Analysis
+Pandas (Python): For data structures and analysis.
+NumPy (Python): For numerical operations.
+SQL: For managing relational databases. 
+Machine Learning & Deep Learning
+Scikit-learn (Python): Classic machine learning algorithms.
+TensorFlow/PyTorch: For deep learning and neural networks. 
+Big Data
+Apache Spark/Hadoop: For distributed big data processing.
+Snowflake/Databricks: Cloud-based data warehousing and lakehouse platforms. 
+Visualization & Business Intelligence (BI)
+Tableau/Power BI/D3.js: Creating interactive dashboards and visualizations.
+Matplotlib/Seaborn (Python): For static and enhanced plots. 
+Cloud Platforms & Version Control
+AWS, Azure, GCP: Cloud computing services.
+Git/GitHub: For version control and collaboration. 
+Other Essential Tools
+Excel: For basic data analysis.
+Jira/Confluence: Project management and documentation.
+Docker: Containerization for consistent environments. 
+
+Data Analytics
+
+Core & Spreadsheet Tools
+Microsoft Excel/Google Sheets: Essential for data cleaning, formulas, pivot tables, and basic analysis. 
+SQL: Used to query and manage data in databases.
+Microsoft Fabric 
+Data Visualization & Business Intelligence (BI)
+Tableau: Powerful for creating interactive dashboards and visualizations.
+Microsoft Power BI: Strong for business reporting and dashboards.
+Qlik Sense: Another popular BI and visualization platform. 
+Programming Languages & Libraries
+Python: Versatile language with libraries like Pandas (data manipulation), NumPy (numerical), Matplotlib/Seaborn (plotting) for advanced analysis. 
+R: Popular for statistical analysis and modeling. 
+Big Data & Advanced Analytics
+Apache Spark: For large-scale data processing.
+KNIME: Open-source platform for data integration and mining.
+SAS: For advanced statistical modeling. 
+Other Useful Tools
+Google Colab/Jupyter Notebooks: For coding in Python, sharing projects.
+dbt: For data transformation.
+
+AI Engineering
+
+Machine Learning Frameworks & Libraries: PyTorch (often preferred for research) and TensorFlow (common in production) are the standard for building deep learning models.
+AI-Powered Code Assistants (IDEs & Plugins): Cursor (AI-first editor), GitHub Copilot, Tabnine, and Codeium are used for real-time code generation and debugging.
+Cloud Platforms & Infrastructure: AWS (SageMaker), Google Cloud Platform (Vertex AI), and Microsoft Azure are used for scalable model training and deployment.
+Data Engineering & Processing: Apache Spark and Hadoop are used for large-scale data manipulation, along with SQL and NoSQL databases.
+MLOps & Version Control: Tools like MLflow, Kubeflow, and Git (GitHub/GitLab) are crucial for tracking experiments, managing models, and versioning code.
+Development Environments: Jupyter Notebooks, VS Code, and Anaconda are standard for prototyping and development.
+Vector Databases & RAG: Tools like LangChain, LlamaIndex, and Pinecone are increasingly used to build Retrieval-Augmented Generation (RAG) applications.
+Specialized Tools: Hugging Face (for pre-trained models), SpaCy (NLP), and Weights & Biases (experiment tracking). 
+Key Trends in 2025-2026
+Agentic IDEs: High adoption of Cursor and Windsurf for multi-file editing.
+Testing & Quality: Qodo (formerly Codium) and Snyk are used for AI-driven testing and security.
+Documentation: Mintlify is commonly used for automated documentation generation. 
